@@ -1,1 +1,1 @@
-# varriable
+# variable
